@@ -1,0 +1,99 @@
+
+.menubar{
+    text-decoration-style: none;
+    /*display: inline-block;*/
+    float: right;
+}
+
+.main-menu{
+    text-decoration: none;
+    list-style: none;    
+}
+
+ul.main-menu{
+    text-decoration: none;
+}
+
+.howto-list{
+    background-color: blueviolet;
+    padding: 10px;
+    color: beige;
+    text-decoration: none;
+    margin-left: 10px;
+    border-radius: 5px;
+
+}
+
+.about-list{
+    background-color: magenta;
+    color: black;
+    padding: 10px;
+    text-decoration: none;
+    margin-left: 10px;
+    border-radius: 5px;
+
+}
+
+.gallery-list{
+    background-color: turquoise;
+    color: black;
+    padding: 10px;
+    text-decoration: none;
+    margin-left: 10px;
+    border-radius: 5px;
+
+}
+
+.login-list{
+    background-color: turquoise;
+    padding: 10px;
+    color: crimson;
+    text-decoration: none;
+    margin-left: 10px;
+    border-radius: 5px;
+
+}
+
+.footer
+{
+    background-color: crimson;
+    display: block;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+    text-align: center;
+}
+
+.instagram-footer
+{
+    padding: 10px;
+}
+
+.twitter-footer
+{
+    padding: 10px;
+}
+
+.header{
+    background-color: crimson;
+    /*width: 100%;*/
+    
+}
+
+.fb-footer
+{
+    padding: 10px;
+}
+
+.cr
+{
+    text-align: center;
+    color: cornsilk;
+}
+
+.index-content
+{
+    background-image: url("bgapt.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
